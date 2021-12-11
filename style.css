@@ -1,0 +1,31 @@
+/* Background Colors*/
+
+.back1 {
+    background-color: #D8E9A8;
+}
+
+.back2 {
+    background-color: #4E9F3D;
+}
+
+.back3 {
+    background-color: #1E5128;
+}
+
+/* Button colors */
+.btn1 {
+    background-color: #D8E9A8;
+    color: rgb(29, 28, 28);
+}
+
+.btn2 {
+    background-color: #4E9F3D;
+    color: whitesmoke;
+}
+
+.btn3 {
+    background-color: #1E5128;
+    color: whitesmoke;
+}
+
+
